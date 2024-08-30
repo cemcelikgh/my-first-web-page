@@ -1,7 +1,5 @@
-# my-first-web-page-kodluyoruz-patika
-Patika.dev HTML Ödev 1
+# my-first-web-page
+Patika Beginner Frontend Web Development Path Certification Task
+<br>My First Web Page
 
-https://www.patika.dev
-https://kodluyoruz.org/tr/kodluyoruz
-
-![my-first-web-page-kodluyoruz-patika](https://imagizer.imageshack.com/img923/8992/1AUi61.jpg)
+![My First Web Page Preview](./my-first-web-page-preview.jpg "My First Web Page")
